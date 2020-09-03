@@ -1,7 +1,7 @@
 {
   "name": "xjtupurple",
   "version": "1.0.0",
-  "description": "> ### 备用网址: [http://remote.endaytrer.me](http://remote.endaytrer.me) > ### 原网址已经转移到[https://xjtupurple.codes](https://xjtupurple.codes)! ### 为了没有紫码的你们更方便的出狱",
+  "description": "> ### 备用网址: [http://remote.endaytrer.me](http://remote.endaytrer.me) > ### 原网址已经转移到[https://code.xjtuglory.me](https://code.xjtuglory.me)! ### 为了没有紫码的你们更方便的出狱",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.5.1",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/endaytrer/xjtupurple.git"
+    "url": "git+https://github.com/gloryhry/xjtupurple.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/endaytrer/xjtupurple/issues"
+    "url": "https://github.com/gloryhry/xjtupurple/issues"
   },
-  "homepage": "https://github.com/endaytrer/xjtupurple#readme"
+  "homepage": "https://github.com/gloryhry/xjtupurple#readme"
 }
